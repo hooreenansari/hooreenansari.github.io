@@ -1,113 +1,100 @@
-<div style="background: linear-gradient(to right, #f8f9fa, #e9ecef); padding: 20px; border-radius: 10px; font-family: Arial, sans-serif;">
+# Hooreen Ansari
 
-# **Hooreen Ansari**
-
-📞 **Phone:** 0335-8439146 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 **Email:** hooreenansari04@gmail.com  
-🔗 **LinkedIn:** [Hooreen Ansari](https://www.linkedin.com/in/hooreenansari/)
+**Phone:** 0335-8439146 &nbsp;&nbsp;|&nbsp;&nbsp; **Email:** hooreenansari04@gmail.com  
+**LinkedIn:** [Hooreen Ansari](https://www.linkedin.com/in/hooreenansari/)
 
 ---
 
-## **Profile**
+## Profile
 
-🎯 Passionate and adaptable individual, dedicated to approaching challenges with enthusiasm.  
-✨ Committed to continual improvement and delivering innovative solutions.  
-📚 Eager to expand expertise and contribute meaningfully in new environments.
+A passionate and adaptable individual dedicated to tackling challenges with enthusiasm. Committed to continual growth and integrating technical and academic knowledge to deliver innovative solutions. Eager to make impactful contributions and expand expertise in dynamic environments.
 
 ---
 
-## **Education**
+## Education
 
-- 🎓 **NUST - BE Mechanical Engineering**  
+- **NUST - BE Mechanical Engineering**  
   _CGPA: 3.90_  
-  🗓️ _Nov 2021—Present_
+  _Nov 2021 – Present_
 
-- 🎓 **Usman Public Higher Secondary School Karachi**  
+- **Usman Public Higher Secondary School, Karachi**  
   _Intermediate: 95.55%_  
-  🗓️ _Aug 2019—May 2021_
+  _Aug 2019 – May 2021_
 
-- 🎓 **Usman Public School Karachi**  
-  _Matric: 89%_  
-  🗓️ _Aug 2017—May 2019_
-
----
-
-## **Honors and Awards**
-
-- 🏅 PNEC Scholarship in Semester 2  
-- 🏆 NUST Rector Scholarship in Semester 2, 3, and 5  
-- 🎖️ High Achievers Award for participation in Formula Student UK (2022, 2023)
+- **Usman Public School, Karachi**  
+  _Matriculation: 89%_  
+  _Aug 2017 – May 2019_
 
 ---
 
-## **Work Experience**
+## Honors and Awards
 
-### **Shell Pakistan, Karachi**  
+- PNEC Scholarship in Semester 2  
+- NUST Rector Scholarship in Semester 2, 3, and 5  
+- High Achievers Award for participation in Formula Student UK (2022, 2023)
+
+---
+
+## Work Experience
+
+### Shell Pakistan, Karachi  
 _Intern_  
-🗓️ _July 2024 – Aug 2024_
+_July 2024 – August 2024_
 
-- Spearheaded the "Mapping the Fleet Sector of Pakistan" project, identifying 592 potential customers with a total lubricant consumption exceeding 2.6 million liters.  
-- Proposed strategies to strengthen Shell's market position through comprehensive market analysis.
+- Led the "Mapping the Fleet Sector of Pakistan" project, identifying 592 potential customers with a total lubricant consumption exceeding 2.6 million liters.  
+- Conducted market analysis and developed strategies to enhance Shell's competitive position.
 
----
-
-### **Iota World, Karachi**  
+### Iota World, Karachi  
 _Teaching Assistant_  
-🗓️ _Sep 2022 – July 2024_
+_September 2022 – July 2024_
 
-- Conducted high school mathematics classes, preparing students for university entry tests.  
-- Developed tailored tests and facilitated troubleshooting sessions for conceptual clarity.
+- Taught mathematics to high school students, preparing them for university entrance exams for institutions like NUST, FAST, and GIKI.  
+- Designed and administered tests, conducted classes, and facilitated discussion sessions to ensure comprehension of key concepts.
 
----
-
-### **Atlas Honda Ltd, Karachi**  
+### Atlas Honda Ltd, Karachi  
 _Intern_  
-🗓️ _June 2024_
+_June 2024_
 
-- Analyzed manufacturing processes of Honda motorcycles and optimized production plans to increase daily output.  
+- Observed and analyzed the manufacturing and assembly processes of Honda motorcycles, including CD 70, CD 100, and CBR 150 models.  
+- Proposed optimization strategies to improve production efficiency, increasing potential daily output from 650 to 750 units.
 
----
-
-### **Orient Energy Systems Pvt Ltd, Karachi**  
+### Orient Energy Systems Pvt Ltd, Karachi  
 _Intern_  
-🗓️ _June 2023 – July 2023_
+_June 2023 – July 2023_
 
-- Collaborated in disassembling and repairing Cummins V-16 engines.  
-- Gained hands-on experience in service, product support, and engineering operations.
+- Assisted in the disassembly and repair of Cummins V-16 engines.  
+- Collaborated with engineers and technicians in service, product support, and engineering departments, gaining hands-on technical experience.
 
 ---
 
-## **Extracurricular Activities**
+## Extracurricular Activities
 
-### **NUST Formula Student Team**  
+### NUST Formula Student Team  
 **Marketing Executive**  
-🗓️ _Nov 2021 – Present_
+_November 2021 – Present_
 
-- Secured partnerships with leading industry players like DP World, Tesla Motors, and PSO.  
-- Launched the “F1 in School” campaign in Pakistan to promote STEM education.  
-- Fostered academia-industry collaboration for PCB design and manufacturing.
-
----
+- Secured partnerships with industry leaders like DP World, Tesla Motors, and PSO.  
+- Launched the “F1 in Schools” campaign in Pakistan to promote STEM education at schools and colleges.  
+- Fostered industry-academia collaboration for PCB design and manufacturing.
 
 **Cost Lead**  
-🗓️ _Nov 2022 – Aug 2024_
+_November 2022 – August 2024_
 
-- Led a 10-member team overseeing manufacturing aspects of NAS 22.  
-- Conducted cost analysis and developed mass production strategies.  
-- Achieved 6th position at the Cost Event of Formula Student UK.
-
----
-
-## **Project**
-
-### **Design and Dynamic Analysis of Suspension System**  
-- Designed and analyzed the suspension system for a Formula Student car.  
-- Validated results using Car Maker Software for real-time simulations.
+- Managed a team of 10, focusing on the technical and financial aspects of manufacturing NAS 22.  
+- Conducted detailed cost analyses and developed strategies for mass production to achieve economies of scale.  
+- Secured 6th place among 60+ international teams in the Cost Event at Formula Student UK, held at Silverstone Circuit.
 
 ---
 
-## **Skills**
+## Project
 
-- **Technical:** AutoCAD, SolidWorks, Ansys, MS Office  
-- **Soft Skills:** Communication, Strategic Planning, Project Management, Presentation Skills  
+**Design and Dynamic Analysis of Suspension System for Formula Student Car**  
+- Designed a robust suspension system and conducted a comprehensive dynamic analysis.  
+- Validated system performance through real-time simulations using Car Maker Software.
 
-</div>
+---
+
+## Skills
+
+- **Technical Skills:** AutoCAD, SolidWorks, Ansys, MS Office  
+- **Soft Skills:** Communication, Strategic Planning, Project Management, Presentation Skills
