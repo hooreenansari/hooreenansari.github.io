@@ -13,15 +13,6 @@ social_links:
     url: "mailto:hooreenansari04@gmail.com"
     icon: "fas fa-envelope"
 
-# Customize footer or navigation buttons
-footer_buttons:
-  - label: "LinkedIn"
-    link: "https://www.linkedin.com/in/hooreenansari/"
-    icon: "fab fa-linkedin"
-  - label: "Gmail"
-    link: "mailto:hooreenansari04@gmail.com"
-    icon: "fas fa-envelope"
-
 # Additional Customization (if needed)
 minima:
   skin: "dark"
